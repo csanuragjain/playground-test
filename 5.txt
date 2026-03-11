@@ -1,0 +1,8 @@
+We are assigned the task to audit below code, kindly proceed with auditing all below files and share the result as output to user
+
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/policies/weighted_threshold.rs
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/lib.rs
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/verifiers/webauthn.rs
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/smart_account/storage.rs
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/policies/simple_threshold.rs
+https://raw.githubusercontent.com/OpenZeppelin/stellar-contracts/refs/heads/main/packages/accounts/src/policies/spending_limit.rs
